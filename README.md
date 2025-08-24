@@ -97,8 +97,8 @@ Currently based in **Dominican Republic** 🇩🇴 and studying **Computer Scien
 
 | Project | Description | Status |
 |---------|-------------|---------|
-| **[LaunchEnterprise]((https://github.com/YTvictorworld/LunchEnterprise))** | A open-source Minecraft Launcher | ✅ Published |
-| **[VictorGarces.me]((https://github.com/YTvictorworld/VictorGarces.me-Portfolio-Nuxt))** | A open-source Portfolio with Nuxt | 🟡 Ongoing |
+| **[LaunchEnterprise]([https://migurinth.miguvt.com/](https://github.com/YTvictorworld/LunchEnterprise))** | A open-source Minecraft Launcher | ✅ Published |
+| **[VictorGarces.me]([https://migurinth.miguvt.com/](https://github.com/YTvictorworld/VictorGarces.me-Portfolio-Nuxt))** | A open-source Portfolio with Nuxt | 🟡 Ongoing |
 <!--
 #### ChatterinoWatch Features:
 - 🔄 **Automatic sync** - Detects the stream you're watching and keeps Chatterino in sync
