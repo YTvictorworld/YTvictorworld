@@ -134,7 +134,6 @@ Self-taught developer with three years building production apps, mostly in the V
 </p>
 </details>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" height="2" alt="separator"/>
 
 ## ◆ Selected Work
 
