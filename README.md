@@ -57,15 +57,16 @@ Self-taught developer with three years building production apps, mostly in the V
 
 **Currently building**
 - Local-first multi-agent AI assistant *(stealth)*
+- [Garceslab Anime](https://github.com/YTvictorworld/garceslab-anime-server): self-hosted anime server + LG webOS TV app
 - Personal portfolio refresh in Nuxt
-- Self-hosted infrastructure for daily tools
+- NixOS homelab running my self-hosted services in Docker
 
 </td>
 <td valign="top" width="50%">
 
 **Currently learning**
 - LangGraph & agent architectures
-- Go programming language
+- Go & React Native (Expo)
 - Cinematic color grading
 
 </td>
@@ -98,6 +99,9 @@ Self-taught developer with three years building production apps, mostly in the V
 <img src="https://img.shields.io/badge/-Vue.js-1e1e2e?style=flat-square&logo=vue.js&logoColor=4FC08D&logoWidth=15"/>
 <img src="https://img.shields.io/badge/-Nuxt-1e1e2e?style=flat-square&logo=nuxt.js&logoColor=00DC82&logoWidth=15"/>
 <img src="https://img.shields.io/badge/-React-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB&logoWidth=15"/>
+<img src="https://img.shields.io/badge/-React_Native-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB&logoWidth=15"/>
+<img src="https://img.shields.io/badge/-Expo-1e1e2e?style=flat-square&logo=expo&logoColor=cdd6f4&logoWidth=15"/>
+<img src="https://img.shields.io/badge/-LG_webOS-1e1e2e?style=flat-square&logo=lg&logoColor=A50034&logoWidth=15"/>
 <img src="https://img.shields.io/badge/-Tailwind-1e1e2e?style=flat-square&logo=tailwind-css&logoColor=38B2AC&logoWidth=15"/>
 <img src="https://img.shields.io/badge/-Vite-1e1e2e?style=flat-square&logo=vite&logoColor=646CFF&logoWidth=15"/>
 <img src="https://img.shields.io/badge/-HTML5-1e1e2e?style=flat-square&logo=html5&logoColor=E34F26&logoWidth=15"/>
@@ -116,6 +120,7 @@ Self-taught developer with three years building production apps, mostly in the V
 <img src="https://img.shields.io/badge/-AWS-1e1e2e?style=flat-square&logo=amazonaws&logoColor=FF9900&logoWidth=15"/>
 <img src="https://img.shields.io/badge/-Docker-1e1e2e?style=flat-square&logo=docker&logoColor=2496ED&logoWidth=15"/>
 <img src="https://img.shields.io/badge/-Linux-1e1e2e?style=flat-square&logo=linux&logoColor=FCC624&logoWidth=15"/>
+<img src="https://img.shields.io/badge/-NixOS-1e1e2e?style=flat-square&logo=nixos&logoColor=5277C3&logoWidth=15"/>
 </p>
 
 </td>
@@ -151,6 +156,20 @@ Personal portfolio built with Nuxt.<br>
 #### [LunchEnterprise](https://github.com/YTvictorworld/LunchEnterprise)
 Open-source Minecraft launcher.<br>
 `Electron` `JavaScript` `Open-source`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### [Garceslab Anime](https://github.com/YTvictorworld/garceslab-anime-server) &nbsp;·&nbsp; <sub>[server](https://github.com/YTvictorworld/garceslab-anime-server) · [TV app](https://github.com/YTvictorworld/garceslab-anime-tv)</sub>
+Self-hosted anime server + LG webOS TV app, based on [Seanime](https://github.com/5rahim/seanime) and [Seanime Tenji](https://github.com/AlkindiX/seanime-tv) (GPL-3.0, all credit to their authors). My additions: local profiles ("Who's watching?", PINs, avatars), up to 3 viewers at once with direct TorBox playback on the TV, client-side MKV subtitle parsing, subtitle-aware auto-select, typeahead search over a local title index, canon/filler episode tags, Netflix-style *Up next* and a schedule calendar.<br>
+`Go` `React` `React Native` `Expo` `webOS` `Docker` · *Next: self-hosted LLM subtitle translation.*
+
+<p>
+<img src="https://raw.githubusercontent.com/YTvictorworld/garceslab-anime-tv/main/docs/images/tv-home.webp" alt="Garceslab Anime TV home screen" width="49%"/>
+<img src="https://raw.githubusercontent.com/YTvictorworld/garceslab-anime-tv/main/docs/images/tv-episode-tags.webp" alt="Episode cards with canon/filler tags on the TV" width="49%"/>
+</p>
 
 </td>
 </tr>
